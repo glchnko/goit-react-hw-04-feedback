@@ -1,0 +1,13 @@
+.list{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+}
+.button{
+    background-color: #53a22e;
+    border-radius: 4px;
+    min-width: 50px;
+    padding: 5px;
+}
